@@ -1,5 +1,5 @@
 ## The Project contains: 
-- Pre Processing the data
+- Pre-processing the data
 - Shingling (n-grams)
 - Jaccard similarity
 - MinHashing
